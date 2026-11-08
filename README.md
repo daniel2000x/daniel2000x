@@ -1,102 +1,141 @@
 
-# Olá, seja bem-vindo ao meu GitHub! 👋
+# Olá! Eu sou Daniel Rosa 👋
 
-## Daniel Rosa
-**Tecnologia da Informação | Salesforce Agentforce | Automação com IA | Perícia Digital**
+### Tecnologia da Informação | Salesforce Agentforce | Automação com IA | Perícia Digital
 
 Sou profissional de Tecnologia da Informação, formado em Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web, infraestrutura, suporte técnico e perícia judicial digital.
 
-Atualmente, também estou desenvolvendo soluções com **Salesforce CRM, Agentforce e Salesforce Flow**, integrando agentes de Inteligência Artificial a processos de atendimento e automação comercial.
+Atualmente, estou ampliando minha atuação para **Salesforce CRM, Agentforce e Salesforce Flow**, desenvolvendo soluções de atendimento, automação comercial e Inteligência Artificial.
 
 ---
 
-## 🚀 Projeto em destaque — SmartTech AI
+## 🚀 Meu projeto em destaque — SmartTech AI
 
-### Agente de IA integrado ao Salesforce CRM
+### 🤖 Agente de IA integrado ao Salesforce CRM
 
-Desenvolvi o **SmartTech AI**, um projeto autoral de atendimento e pré-vendas utilizando Salesforce Agentforce.
+Desenvolvi o **SmartTech AI**, um projeto autoral de atendimento e pré-vendas com agente de IA desenvolvido no Salesforce Agentforce.
 
-O projeto demonstra:
+O agente permite:
 
-- ✅ Agente de IA configurado no Salesforce Agentforce Builder.
-- ✅ Consultas de produtos e preços no Salesforce.
-- ✅ Automações utilizando Salesforce Flow.
-- ✅ Registro automático de Leads no CRM mediante consentimento.
-- ✅ Integração do Salesforce Embedded Messaging a um site.
-- ✅ Testes funcionais e validação de registros no CRM.
-- ✅ Publicação de interface web no GitHub Pages.
+- ✅ Atendimento inteligente com Agentforce Builder
+- ✅ Consultas de produtos e preços no Salesforce
+- ✅ Automações utilizando Salesforce Flow
+- ✅ Registro automático de Leads mediante consentimento
+- ✅ Integração com Salesforce Embedded Messaging
+- ✅ Testes funcionais e validação dos registros no CRM
+- ✅ Publicação da interface no GitHub Pages
 
-**O projeto utiliza produtos e dados fictícios em um ambiente de demonstração.**
+**Ambiente demonstrativo com produtos e dados fictícios.**
 
-### 🔗 Acesse o projeto
+### 🌐 Experimente o agente
 
-🌐 [Testar SmartTech AI](https://daniel2000x.github.io/smarttech-agentforce-portfolio/)
+[![Testar SmartTech AI](https://img.shields.io/badge/TESTAR%20AGENTE%20DE%20IA-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://daniel2000x.github.io/smarttech-agentforce-portfolio/)
 
-💻 [Ver código e documentação](https://github.com/daniel2000x/smarttech-agentforce-portfolio)
+[![Ver Projeto](https://img.shields.io/badge/VER%20CÓDIGO%20NO%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel2000x/smarttech-agentforce-portfolio)
 
 ---
 
-## 🛠️ Tecnologias e competências
+## 🛠️ Tecnologias que utilizo
 
-### Salesforce e Inteligência Artificial
-- Salesforce CRM
-- Salesforce Agentforce
+### 💻 Desenvolvimento
+
+<p>
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</p>
+
+### ☁️ Salesforce e Inteligência Artificial
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-0176D3?style=for-the-badge)
+![Salesforce Flow](https://img.shields.io/badge/Salesforce%20Flow-00A1E0?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-0C766E?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-4B32C3?style=for-the-badge)
+
+**Conhecimentos práticos:**
 - Agentforce Builder
 - Salesforce Flow
+- Salesforce CRM
 - Embedded Messaging
-- Automação de processos
-- Criação e configuração de agentes de IA
+- Automação e integração de processos
+- Configuração de agentes de IA
 
-### Desenvolvimento de sistemas
-- JavaScript
-- TypeScript
-- HTML5 e CSS3
-- React
-- PHP
-- Git e GitHub
+### 🔐 Perícia Digital e Cibersegurança
 
-### Infraestrutura e suporte
-- Windows e Linux
-- Active Directory
-- Redes de computadores
-- Suporte técnico N1/N2
-- Administração de usuários e serviços
-
-### Perícia Digital e Cibersegurança
 - Perícia judicial em informática
-- Análise de assinaturas eletrônicas e digitais
-- Evidências digitais
-- Integridade de documentos eletrônicos
+- Assinaturas eletrônicas e digitais
+- Evidências digitais e integridade de documentos
 - Blockchain
-- Investigação e análise técnica
+- Análise de sistemas e segurança da informação
 
 ---
 
-## 🎯 Objetivos profissionais
+## 📊 Estatísticas do GitHub
 
-Tenho interesse em oportunidades nas áreas de:
+<details>
+<summary>📈 Clique para visualizar minhas estatísticas</summary>
 
-- Desenvolvedor Salesforce Júnior
-- Analista Salesforce / CRM
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daniel2000x&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2000x&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+</details>
+
+---
+
+## 🐍 Minha cobrinha de contribuições
+
+![Snake animation](https://github.com/daniel2000x/daniel2000x/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Áreas de interesse profissional
+
+- Salesforce Developer Júnior
 - Salesforce Administrator Júnior
-- Agentforce e automação com IA
+- Analista Salesforce / CRM
+- Agentforce e automações com Inteligência Artificial
 - Desenvolvimento de sistemas
+- Infraestrutura e suporte técnico
 - Perícia Digital e Cibersegurança
 
-Busco aplicar minha experiência em TI no desenvolvimento de soluções que integrem tecnologia, automação e Inteligência Artificial aos processos empresariais.
+---
+
+## 🌐 Minhas redes sociais
+
+<p>
+<a href="https://www.youtube.com/channel/UCded-7cxfU8wMAj_X2eHiTQ">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/dan_opt/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://discord.gg/DanielRosa#1286">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/daniel-rosa-ti/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+### 🔗 Meus sites
+
+🌐 [Portfólio Salesforce / Agentforce](https://daniel2000x.github.io/smarttech-agentforce-portfolio/)
+
+⚖️ [Site profissional de Perícia Judicial](https://www.danielrosaperito.com.br)
+
+💻 [Meus repositórios](https://github.com/daniel2000x?tab=repositories)
 
 ---
 
-## 📫 Contato e portfólio
-
-**LinkedIn:** https://www.linkedin.com/in/daniel-rosa-ti/
-
-**Portfólio Salesforce:** https://daniel2000x.github.io/smarttech-agentforce-portfolio/
-
-**Site profissional:** https://www.danielrosaperito.com.br
-
-**GitHub:** https://github.com/daniel2000x
-
----
-
-*Tecnologia, automação e investigação digital aplicadas à solução de problemas reais.*
+### 💡 Tecnologia, automação e investigação digital para resolver problemas reais.
